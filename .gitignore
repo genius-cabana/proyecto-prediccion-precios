@@ -1,0 +1,6 @@
+# Ignorar el entorno virtual
+tf-env/
+
+# Ignorar otros archivos innecesarios
+__pycache__/
+*.pyc
