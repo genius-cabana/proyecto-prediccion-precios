@@ -1,10 +1,13 @@
-##📝 Conclusiones Personales
-Este proyecto permitió adentrarse en el mundo del aprendizaje automático (Machine Learning), comprendiendo desde conceptos teóricos básicos hasta su aplicación práctica mediante la creación de modelos predictivos reales. Se logró implementar tanto un modelo de regresión lineal simple como una red neuronal artificial utilizando TensorFlow / Keras , lo cual demostró cómo los modelos más avanzados pueden mejorar significativamente sobre métodos sencillos al trabajar con múltiples variables.
+## 📝 Conclusiones Personales
 
-Además, se fortalecieron habilidades clave como:
+Este proyecto permitió adentrarse en los fundamentos del aprendizaje automático (Machine Learning), explorando tanto la **regresión lineal** como las **redes neuronales artificiales**. Al construir modelos predictivos para estimar precios de viviendas, se logró comprender cómo estos algoritmos aprenden patrones a partir de datos reales.
 
-El manejo de datos con Python , usando librerías como NumPy y Pandas .
-La construcción, entrenamiento y evaluación de modelos de Machine Learning y Deep Learning.
-La visualización de resultados con Matplotlib , facilitando la interpretación de las predicciones.
-El uso de GitHub como herramienta fundamental para el control de versiones y entrega del proyecto, integrando buenas prácticas profesionales de desarrollo.
-En resumen, este trabajo no solo ayudó a comprender el funcionamiento de las redes neuronales y su aplicación en problemas reales como la predicción de precios de viviendas, sino que también fue una excelente introducción a la metodología utilizada en proyectos reales de ciencia de datos e inteligencia artificial.
+Primero se implementó un modelo sencillo de regresión lineal usando una sola variable, lo cual facilitó la comprensión de los conceptos básicos. Posteriormente, se desarrolló una red neuronal con múltiples variables, demostrando cómo los modelos más complejos pueden superar a los métodos tradicionales al aprovechar relaciones no lineales en los datos.
+
+Además, se fortalecieron habilidades prácticas en:
+- Uso de **Python** y bibliotecas clave como **TensorFlow/Keras**, **NumPy**, **Pandas** y **Matplotlib**.
+- Manipulación y visualización de datos.
+- Construcción, entrenamiento y evaluación de modelos ML/DL.
+- Gestión del proyecto mediante **GitHub**, integrando buenas prácticas de control de versiones y documentación.
+
+En resumen, este trabajo no solo fue una introducción sólida al desarrollo de modelos predictivos, sino también una valiosa experiencia en metodologías profesionales de ciencia de datos e inteligencia artificial.
