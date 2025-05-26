@@ -4,3 +4,4 @@ tf-env/
 # Ignorar otros archivos innecesarios
 __pycache__/
 *.pyc
+.gitgonre
